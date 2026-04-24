@@ -1,4 +1,5 @@
 # Query-to-Target Gene Mapping by Genome Overlap
+Vibe coded with Codex/ChatGPT
 
 This workflow maps genes from one annotation to another by aligning query transcripts to a target genome, then assigning each query transcript to the target gene whose annotated exons overlap the alignment the most.
 
