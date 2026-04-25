@@ -1,3 +1,7 @@
+# Mapping
+V2 -> NCBI : v2_to_ncbi_gene_pairs.tsv
+
+
 # Query-to-Target Gene Mapping by Genome Overlap
 Vibe coded with Codex/ChatGPT
 
